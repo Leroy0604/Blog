@@ -64,8 +64,11 @@ pagination_dir: page
 ## Themes: http://hexo.io/themes/
 theme: landscape
 
-# Deployment test 
+# Deployment test
 ## Docs: http://hexo.io/docs/deployment.html
+
+### 测试信息
+
 deploy:
       type: git
       repository: git@github.com:Leroy0604/leroy-blog.github.io.git
