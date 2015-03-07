@@ -68,5 +68,5 @@ theme: landscape
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
       type: git
-      repository: https://github.com/Leroy0604/Blog.git
+      repository: git@github.com:Leroy0604/leroy-blog.github.io.git
       branch: master
